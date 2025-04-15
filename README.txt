@@ -27,7 +27,7 @@ University of Bamberg
   Email: lukas-george.dimdik@stud.uni-bamberg.de  
 
 University of Cologne  
-- Michael Wlcek – Statistical Evaluation  
+- Matthias Wlcek – Statistical Evaluation  
   Email: mwlcek@smail.uni-koeln.de  
 
 HSLU Lucerne University of Applied Sciences and Arts  
